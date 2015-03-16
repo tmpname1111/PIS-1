@@ -12,6 +12,7 @@ namespace PIS_1
             Console.WriteLine("Oj!");
             Console.WriteLine("Punkeru!");
             Console.WriteLine("Bok");
+            Console.WriteLine("Edit na serveru");
         }
     }
 }
